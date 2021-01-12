@@ -16,24 +16,24 @@ Tugas UAS
 * ``main.py`` berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 * **Output tambah_data**
   
-![tambah-data.png](/gambar program 1/tambah-data.png)
+![tambah-data.png](/GAMBAR/tambah-data.png)
   
 * **Output daftar_nilai**
 
-![daftar-nilai.png](/gambar program 1/daftar-nilai.png)
+![daftar-nilai.png](/GAMBAR/daftar-nilai.png)
  
 * **Output ubah_data**
 
-![ubah-data.png](/gambar program 1/ubah-data.png)
+![ubah-data.png](/GAMBAR/ubah-data.png)
 
 * **Output Cari_data**
 
-![cari-data.png](/gambar program 1/cari-data.png)
+![cari-data.png](/GAMBAR/cari-data.png)
 
 * **Output Hapus_data**
 
-![hapus-data.png](/gambar program 1/hapus-data.png)
+![hapus-data.png](/GAMBAR/hapus-data.png)
 
 * **Output break**
 
-![selesai.png](/gambar program 1/selesai.png)
+![selesai.png](/GAMBAR/selesai.png)
